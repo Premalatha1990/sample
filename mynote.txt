@@ -1,0 +1,2 @@
+This is the sample data
+ This is the second line and newly added
